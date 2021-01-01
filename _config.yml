@@ -26,9 +26,14 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://sdolgin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sdolgin
 github_username:  sdolgin 
+linkedin_username: sdolgin
+twitter: sdolgin
+
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 
