@@ -25,7 +25,7 @@ author:
 
 description: >- # this means to ignore newlines until "baseurl:"
   Saul Dolgin's blog on technology and interesting things
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://sdolgin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
